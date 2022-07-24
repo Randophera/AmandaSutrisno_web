@@ -12,7 +12,7 @@
     margin-right: 25px;
     position: absolute;
     top: 0px;
-    right: 20%;
+    right: 16%;
 }
 
 .toplink {
@@ -46,7 +46,7 @@
     position: relative;
     top: 100px;
     margin: auto;
-    width: 55%;
+    width: 65%;
 }
 
 h2 {
@@ -111,6 +111,10 @@ body {
 
 .name_mark {
     background-color:rgb(198, 186, 236);
+}
+
+.m_text_lpurple {
+    background-color:rgb(223, 216, 247);
 }
 
 .m_text_green {
@@ -201,4 +205,32 @@ body {
 .work_image {
     margin-left:25%;
     width: 50%;
+}
+
+.quote_text {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    margin-left: 60px;
+    margin-right: 60px;
+    line-height: 24px;
+    color: rgb(70, 70, 70);
+}
+
+.hidden_quote_text {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    margin-left: 60px;
+    margin-right: 60px;
+    line-height: 24px;
+    color: rgb(70, 70, 70);
+    display: none;
+}
+
+.addr_text {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    margin-left: 60px;
+    margin-right: 60px;
+    line-height: 22px;
+    color: gray;
 }
